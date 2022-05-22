@@ -19,8 +19,7 @@
 * Soon I will be adding new ideas that I am working on
 
 ´¨¯¨`*•~-.¸,.-~*´¨¯¨`*•~-.¸,.-~*´¨¯¨`*•~-.¸,.-~*´ `*•~-.¸,.-~*´`*•~-.¸,.-~*´•~-.¸,.-~*´¨¯¨`*• 
-##Finally, I want to add that I am a frontend specialist, since I have a designer background.
-The list of tools I use are:
+###Finally, I want to add that I am a frontend specialist, since I have a designer background. The list of tools I use are:
 *HTML5
 *CSS3
 *Sass
